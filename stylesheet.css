@@ -1,0 +1,28 @@
+ol {
+		list-style-type: none;
+		font-size: 1.2em;
+	}
+#header{
+		text-align: right;
+		margin-right: 100px;
+		margin-left: 100px;
+	}
+#testScreen, #testOutput{
+		padding: 50px;
+		margin-right: 100px;
+		margin-left: 100px;
+	}
+#testQuestions{
+		width: 100%;
+		align: center;
+		padding: 10px;
+	}
+#tabsBar{
+		text-align: right;
+		margin: 10px;
+		background-color: yellow;
+	}
+.tabs{
+		padding: 10px;
+		font-size: 1.2em;
+}
